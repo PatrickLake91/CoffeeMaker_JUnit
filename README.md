@@ -1,3 +1,3 @@
 # CoffeeMaker_JUnit
 
-Updated feature in feature-update branch.
+Conflict A change to README on conflict-a branch.
