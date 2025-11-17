@@ -1,3 +1,3 @@
 # CoffeeMaker_JUnit
 
-Different README change on main branch.
+Resolved README change after merge conflict between main and conflict-a branches.
