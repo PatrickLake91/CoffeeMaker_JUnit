@@ -1,0 +1,12 @@
+# Eclipse / Java
+/bin/
+/.settings/
+/.classpath
+/.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
